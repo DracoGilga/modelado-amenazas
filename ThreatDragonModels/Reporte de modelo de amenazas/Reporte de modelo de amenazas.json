@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Reporte de modelo de amenazas",
+    "owner": "César González López",
+    "description": "Modelado de reporte de amenazas para el sistema bibliotecario de la universidad veracruzana",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
