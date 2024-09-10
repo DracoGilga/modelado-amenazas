@@ -3,7 +3,7 @@
   "summary": {
     "title": "Reporte de modelo de amenazas",
     "owner": "César González López",
-    "description": "Modelado de reporte de amenazas para el sistema bibliotecario de la universidad veracruzana",
+    "description": "Modelado de reporte de amenazas para el sistema bibliotecario de la universidad veracruzana, esta, es la primera implementación, por lo que estará limitada a 3 tipos de usuario.\n\n- Estudiante\n- Personal (intendente, secretarios, maestros, personal de rectoría)\n- Bibliotecarios",
     "id": 0
   },
   "detail": {
